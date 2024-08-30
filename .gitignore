@@ -1,6 +1,4 @@
-plugins/**
-!plugins/tpm
-plugins/tmux
-plugins/tmux-pomodoro-plus
-plugins/tmux-window-name
-plugins/vim-tmux-navigator
+/plugins/*
+!/plugins/tmp/
+!/plugins/tmp/**
+
