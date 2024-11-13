@@ -1,4 +1,4 @@
 /plugins/*
-!/plugins/tmp/
-!/plugins/tmp/**
+!/plugins/tpm/
+!/plugins/tpm/**
 
